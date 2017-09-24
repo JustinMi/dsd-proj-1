@@ -1,6 +1,6 @@
 # Data Science Decal Project 1
 
-Forrest Li
+Forest Li
 Boyang Sun
 Ashley Chien
 Justin Mi
